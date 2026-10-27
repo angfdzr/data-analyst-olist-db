@@ -96,7 +96,6 @@ Angka acuan jumlah baris pada dataset Kaggle versi asli (hasil `A1` di file 2 bi
 ├── 4_olist_db_analisis_bisnis.sql      # 10 analisis bisnis
 ├── 5_olist_db_view.sql                 # 3 view pelaporan
 ├── 6_olist_db_validasi.sql             # Validasi view vs manual
-└── data/                               # (opsional) taruh 9 file CSV di sini
 ```
 
 Urutan eksekusi **wajib berurutan 1 sampai 6**, dengan satu langkah manual di antara file 1 dan file 2: **impor CSV**.
